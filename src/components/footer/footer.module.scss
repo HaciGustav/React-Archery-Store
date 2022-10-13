@@ -1,0 +1,23 @@
+footer {
+    padding: 1rem;
+    background-color: black;
+    p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        column-gap: 1rem;
+        color: beige;
+        font-size: small;
+
+        a {
+            color: beige;
+            padding-bottom: 0.5rem;
+        }
+        span {
+            color: #7f1000;
+            font-size: 1rem;
+            font-weight: 800;
+            border-radius: 0.5rem;
+        }
+    }
+}

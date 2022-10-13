@@ -1,0 +1,165 @@
+const data = [
+    {
+        id: 1,
+        title: 'Scythian Bow',
+        totalLength: '50 1/4',
+        lengthBetweenSiyahs: '45',
+        lengthStrung: '45',
+        drawWeight: '25-60#',
+        maxDrawLength: '32',
+        braceHeight: '6',
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/szkita/old/1.gif',
+    },
+    {
+        id: 2,
+        title: 'Hunnish Bow',
+        totalLength: '63',
+        lengthBetweenSiyahs: '56 1/2',
+        lengthStrung: '55 1/2',
+        drawWeight: '25-80#',
+        maxDrawLength: '31',
+        braceHeight: '6',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/hun/alap/1.gif',
+    },
+    {
+        id: 3,
+        title: 'Roman Bow',
+        totalLength: '58 1/2',
+        lengthBetweenSiyahs: '57',
+        lengthStrung: '53',
+        drawWeight: '30-60#',
+        maxDrawLength: '32',
+        braceHeight: '6 3/4',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/romai/1.gif',
+    },
+    {
+        id: 4,
+        title: 'Avar Bow Base',
+        totalLength: ' 56 1/2',
+        lengthBetweenSiyahs: '50',
+        lengthStrung: '50',
+        drawWeight: '25-65#',
+        maxDrawLength: '32',
+        braceHeight: '6 7/8',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/avar/alap/1.gif',
+    },
+    {
+        id: 5,
+        title: 'Hungarian Bow',
+        totalLength: '62 1/2',
+        lengthBetweenSiyahs: '57 1/4',
+        lengthStrung: '56 1/4',
+        drawWeight: '25-100#',
+        maxDrawLength: '32',
+        braceHeight: '7 1/8',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/magyar/alap/1.gif',
+    },
+    {
+        id: 6,
+        title: 'Turkish Bow',
+        totalLength: '51 1/2',
+        lengthBetweenSiyahs: '34 1/2',
+        lengthStrung: '44 1/2',
+        drawWeight: '30-60#',
+        maxDrawLength: '30',
+        braceHeight: '8',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/torok/alap/1.gif',
+    },
+    {
+        id: 7,
+        title: 'Indo-Persian Bow',
+        totalLength: '63',
+        lengthBetweenSiyahs: '56 1/2',
+        lengthStrung: '55 1/2',
+        drawWeight: '25-80#',
+        maxDrawLength: '31',
+        braceHeight: '6',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/indo/1.gif',
+    },
+    {
+        id: 8,
+        title: 'Crimean-Tatar Bow',
+        totalLength: '57',
+        lengthBetweenSiyahs: '52',
+        lengthStrung: '53',
+        drawWeight: '30-65#',
+        maxDrawLength: '33',
+        braceHeight: '8',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/crim/alap/1.gif',
+    },
+    {
+        id: 9,
+        title: 'Assyrian Bow',
+        totalLength: '57',
+        lengthBetweenSiyahs: '52',
+        lengthStrung: '53',
+        drawWeight: '30-65#',
+        maxDrawLength: '33',
+        braceHeight: '8',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/assir/bio/1.gif',
+    },
+    {
+        id: 10,
+        title: 'Mongol Bow Base',
+        totalLength: '62 1/4',
+        lengthBetweenSiyahs: '55',
+        lengthStrung: '54 3/4',
+        drawWeight: '30-75#',
+        maxDrawLength: '32',
+        braceHeight: '7 5/8',
+
+        price: '245 Euro',
+        image: 'http://www.grozerarchery.com/htm/mongol/alap/1.gif',
+    },
+    {
+        id: 11,
+        title: 'Classic Longbow',
+        totalLength: '74 1/2',
+        lengthBetweenSiyahs: '74 1/2',
+        lengthStrung: '71',
+        drawWeight: '30-60#',
+        maxDrawLength: '30',
+        braceHeight: '7 7/8',
+
+        price: 'Not available',
+        image: 'http://www.grozerarchery.com/htm/long/cl/1.gif',
+    },
+    {
+        id: 12,
+        title: 'Hunting Recurve Bow',
+        totalLength: '58 1/2',
+        lengthBetweenSiyahs: '56',
+        lengthStrung: '54',
+        drawWeight: '25-80#',
+        maxDrawLength: '31-34',
+        braceHeight: '7 1/16',
+        desc: `total length: 58 1/2"
+        length between siyahs: 56"
+        length strung: 54"
+        draw weight: 25-80#
+        max. draw length: 31-34"
+        brace height: 7 1/16"
+        `,
+        price: '480 Euro',
+        image: 'http://www.grozerarchery.com/htm/recurve/hunt/1.gif',
+    },
+];
+
+export default data;

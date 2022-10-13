@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url(../img/bgImg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-family: 'Work Sans', sans-serif;
+}
+.container {
+    // padding: 3rem;
+    // width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    // margin: auto;
+    justify-content: space-evenly;
+    gap: 1rem;
+    // grid-auto-flow: column;
+}

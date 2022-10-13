@@ -1,0 +1,20 @@
+nav ul {
+    display: flex;
+    justify-content: center;
+    column-gap: 1rem;
+    list-style: none;
+    font-size: 0.7rem;
+    font-weight: 700;
+    background-color: black;
+    color: beige;
+    height: 100%;
+    li {
+        border-bottom: 5px solid darkred;
+        padding: 0.5rem;
+        cursor: pointer;
+        &:hover {
+            background-color: rgb(99, 0, 0);
+            color: black;
+        }
+    }
+}
