@@ -7,6 +7,7 @@ import './sass/Main.scss';
 function App() {
     return (
         <>
+            <div className="bg-image"></div>
             <Navbar />
             <Header />
             <div className="container">
