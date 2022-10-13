@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-archery-store/static/css/main.1cfd88c0.css",
+    "main.js": "/react-archery-store/static/js/main.efccbf01.js",
+    "static/media/bgImg.jpg": "/react-archery-store/static/media/bgImg.864b1b54fe403d5a64ae.jpg",
+    "index.html": "/react-archery-store/index.html",
+    "main.1cfd88c0.css.map": "/react-archery-store/static/css/main.1cfd88c0.css.map",
+    "main.efccbf01.js.map": "/react-archery-store/static/js/main.efccbf01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cfd88c0.css",
+    "static/js/main.efccbf01.js"
+  ]
+}
